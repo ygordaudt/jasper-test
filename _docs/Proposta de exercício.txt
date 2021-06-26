@@ -1,0 +1,4 @@
+Construir um relatório de consulta embutida utilizando o banco USUARIO
+O relatório deverá possuir um parametro nome que permita ao usuário filtrar o mesmo por uma parte do nome dos dados do relatório
+O cabeçalho dos dados exibidos no relatório deverá possuir formatação diferenciada
+O relatório deverá ter na seção de título o nome do seu desenvolvedor
